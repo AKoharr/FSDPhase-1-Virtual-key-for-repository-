@@ -6,7 +6,7 @@ Technologies
 **General Info**
 A simple file handling project in java.
 
-Using the application
+Using the application:
 Welcome screen displays the application name, developer details, directory information and main menu.
 
 **Welcome Screen**
@@ -26,7 +26,6 @@ The user has to select option from the user interface shown.
         d. option to navigate back to main menu.
 **Technologies**
 Technologies used in project:[Virtual Key for Repositories.docx](https://github.com/AKoharr/FSDPhase-1-Virtual-key-for-repository-/files/9257155/Virtual.Key.for.Repositories.docx)
-
 
 java 8
 Eclipse
